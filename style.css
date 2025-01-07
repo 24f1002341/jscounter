@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+}
+
+#display{
+height: 50px;
+width: 150px;
+color:black;
+  font-weight: 900;
+}
+#buttons{
+  margin-top: 20px;
+}
+
+#buttons button{
+  background-color: #062307;
+  color: white;
+  font-weight: 900;
+  width:200px;
+  height: 50px;
+}
