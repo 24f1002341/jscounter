@@ -14,7 +14,8 @@ html {
 height: 50px;
 width: 150px;
 color:black;
-  font-weight: 900;
+font-weight: 900;
+text-align:center;
 }
 #buttons{
   margin-top: 20px;
